@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ttapas98" target="blank"><img src="https://img.shields.io/twitter/follow/ttapas98?logo=twitter&style=for-the-badge" alt="ttapas98" /></a> </p>
 
-- 🌱 I’m currently learning **javaScript**
+- 🖥️ I’m currently learning **javaScript**
 
 - 💬 Ask me about **HTML,CSS,javaScript**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TAPAS RANJAN PATRA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapasranjanpatra&label=Profile%20views&color=0e75b6&style=flat" alt="tapasranjanpatra" /> </p>
 
